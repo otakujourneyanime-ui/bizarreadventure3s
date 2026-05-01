@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/otakujourneyanime-ui/bizarreadventure3s/main/menu.lua"))()
